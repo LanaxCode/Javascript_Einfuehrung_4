@@ -1,0 +1,9 @@
+html{
+    margin-top: 50vh;
+    display: block;
+    text-align: center;
+}
+
+label{
+    display: block;
+}
